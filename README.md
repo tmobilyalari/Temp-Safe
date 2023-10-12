@@ -6,4 +6,4 @@ Not: Dism hizmetleri Windows 8 ve üstünde düzgün çalışıyor. Denendi ve �
 Not 2: Hatalar mevcuttur. Geri bildirirseniz sevinirim.
 Not 3: Key bir kez aktifleşince geri al butonu ile aktifliği silebilirsiniz. Key aynıdır. Bu yüzden keyi paylaşmazsanız sevinirim. Yoksa sürüm atlatıp key değiştirici yaparım.
 
-Ücret 19.99₺
+Ücret Bionluk'ta var
